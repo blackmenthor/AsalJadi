@@ -3,4 +3,25 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <color name="grey">#b8bec6</color>
+    <color name="background">#69d2e7</color>
+    <color name="white">#fff</color>
+    <color name="orange">#ffb400</color>
+    <color name="black">#000</color>
+
+    <string-array name="minutes_arrays">
+        <item>10 minutes</item>
+        <item>20 minutes</item>
+        <item>30 minutes</item>
+        <item>45 minutes</item>
+        <item>1 hour</item>
+        <item>2 hour</item>
+    </string-array>
+
+    <string-array name="repeat_arrays">
+        <item>Daily</item>
+        <item>Once a week</item>
+        <item>Once a month</item>
+    </string-array>
+
 </resources>
